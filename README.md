@@ -46,7 +46,10 @@
 
 ## ⚙️ Statistics and Languages
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aman11s&show_icons=true&locale=en&theme=cobalt" alt="aman11s" />
+<img src="https://github-readme-stats.vercel.app/api?username=aman11s&show_icons=true&locale=en&theme=cobalt" height="170px" alt="aman11s" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman11s&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="aman11s" />
- 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman11s&show_icons=true&locale=en&layout=compact&theme=cobalt" height="170px" alt="aman11s" />
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=aman11s&count_private=true&show_icons=true&theme=radical" height="170px" alt="aman11s" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman11s&layout=compact&theme=radical" height="170px" alt="aman11s" > -->
+  
