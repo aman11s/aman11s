@@ -8,7 +8,7 @@
 - 👨‍💻  Web dev enthusiast
 - 🌐  Learning Frontend technologies
 - 📬  reachout.amansingh@gmail.com
-- 💼  [My Porfolio](https://amansingh.netlify.app)
+- 💼  [My Porfolio](https://amansingh.vercel.app)
 - ✍️   [My Blogs](https://aman11s.hashnode.dev)
 
 <hr>
