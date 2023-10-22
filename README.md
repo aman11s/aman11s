@@ -1,5 +1,5 @@
-# Hello World 👋, I'm Aman 
-### I'm a Frontend Developer 👨‍💻 , who loves to build awesome projects. I'm currently in my final year of graduation. Leaning new skills exictes me the most 💯. 
+# Hello World 👋
+### I'm Aman. Currently working at Unifize as a Frontend Developer 👨‍💻 
 
 ![](https://komarev.com/ghpvc/?username=aman11s&color=yellow)
 
