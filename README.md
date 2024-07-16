@@ -36,8 +36,6 @@ I'm a frontend developer with nearly 2 years of experience in creating dynamic a
 ## 📬 I love to connect with new people: 
 
 
-<a href="https://twitter.com/aman11s" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman11s" height="30" width="40" /></a>
+<a href="https://x.com/aman11s" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman11s" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/aman11s" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman11s" height="30" width="40" /></a>
-
-<a href="https://instagram.com/_amancodes" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amancodes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman11s" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman11s" height="30" width="40" /></a>
