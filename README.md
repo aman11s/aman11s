@@ -41,14 +41,3 @@ I'm a frontend developer with nearly 2 years of experience in creating dynamic a
 <a href="https://linkedin.com/in/aman11s" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman11s" height="30" width="40" /></a>
 
 <a href="https://instagram.com/_amancodes" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amancodes" height="30" width="40" /></a>
-
-<br/>
-<br/>
-<hr>
-
-## ⚙️ Statistics and Languages
-
-<img src="https://github-readme-stats.vercel.app/api?username=aman11s&show_icons=true&locale=en&theme=cobalt" height="170px" alt="aman11s" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman11s&show_icons=true&locale=en&layout=compact&theme=cobalt" height="170px" alt="aman11s" />
-  
