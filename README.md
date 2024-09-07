@@ -8,8 +8,8 @@ I'm a frontend developer with nearly 2 years of experience in creating dynamic a
 - 🧠  Self taught developer
 - 👨‍💻  Web dev enthusiast
 - 📬  reachout.amansingh@gmail.com
-- 💼  <a href="https://amansingh.vercel.app" target="_blank">My Porfolio</a>
-- ✍️   <a href="https://aman11s.hashnode.dev" target="_blank">My Blogs</a>
+- 💼  [My Porfolio](https://amansingh.vercel.app)
+- ✍️   [My Blogs](https://aman11s.hashnode.dev)
 
 <hr>
 
