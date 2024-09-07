@@ -7,10 +7,9 @@ I'm a frontend developer with nearly 2 years of experience in creating dynamic a
 
 - 🧠  Self taught developer
 - 👨‍💻  Web dev enthusiast
-- 🌐  Learning Frontend technologies
 - 📬  reachout.amansingh@gmail.com
-- 💼  [My Porfolio](https://amansingh.vercel.app)
-- ✍️   [My Blogs](https://aman11s.hashnode.dev)
+- 💼  <a href="https://amansingh.vercel.app" target="_blank">My Porfolio</a>
+- ✍️   <a href="https://aman11s.hashnode.dev" target="_blank">My Blogs</a>
 
 <hr>
 
@@ -24,9 +23,29 @@ I'm a frontend developer with nearly 2 years of experience in creating dynamic a
 
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" alt="TypeScript" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?size=48" />
+
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+
+<img align="left" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/261c2cda92d09ccad6f8b2dc91af32a2a5856989/topics/tailwind/tailwind.png" />
+
+<img align="left" alt="Remix" width="40px" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" />
+
+<img align="left" alt="Redux Saga" width="40px" src="https://avatars.githubusercontent.com/u/24776643?s=200&v=4" />
+
+<img align="left" alt="Flow JS" width="40px" height="40px" src="https://flow.org/img/logo.svg" />
+
+<img align="left" alt="Firebase" width="40px" height="40px" src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" />
+
+<img align="left" alt="styled components" width="40px" height="40px" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" />
+
+<img align="left" alt="Material UI" width="40px" height="40px" src="https://github.com/user-attachments/assets/4437f42f-5b68-48b6-8a32-139eca141414" />
+
+<img align="left" alt="Chakra UI" width="40px" height="40px" src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" />
+
+<img align="left" alt="Redux" width="40px" height="40px" src="https://avatars.githubusercontent.com/u/13142323?s=200&v=4" />
 
 <br/>
 <br/>
