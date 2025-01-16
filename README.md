@@ -1,6 +1,6 @@
 # Hi there, I'm Aman! 👋
 ### About Me
-I'm a frontend developer with nearly 2 years of experience in creating dynamic and responsive web applications. My journey in the tech world has been driven by a love for coding and a desire to build user-friendly interfaces.
+I'm a frontend developer with over 2 years of experience creating dynamic and responsive web applications. My journey in the tech world has been driven by a love for coding and a desire to build user-friendly interfaces.
 
 ![](https://komarev.com/ghpvc/?username=aman11s&color=yellow)
 
