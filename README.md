@@ -1,6 +1,6 @@
 # Hi there, I'm Aman! 👋
 
-### Senior Frontend Engineer with 3+ years building production web apps across fintech, SaaS, and mixed reality.
+### Senior Frontend Engineer, building production web apps across fintech, SaaS, and mixed reality.
 
 Currently at **HDFC Securities** working on a next-gen trading platform for one of India's largest stock brokers.
 
